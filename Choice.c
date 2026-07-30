@@ -20,7 +20,7 @@ int main(){
                    if(num%2==0){
                     printf("Even");
                    }
-                   else{
+                   else{ 
                     printf("Odd");
                    }
                    break;
